@@ -6,6 +6,8 @@ Operating systems (OSes) are required on all computing devices to run software o
 
 [For more information...](AOS/Foreword_AOS.pdf)
 
+[Sample Chapter - Security!](AOS/AOS-L11-Security.pdf)
+
 - [Amazon Kindle](https://www.amazon.com/dp/B0HDK5CCCJ)
 - [Apple Books](https://books.apple.com/us/book/advanced-operating-systems/id6799153989)
 
@@ -19,6 +21,8 @@ These course notes represent my efforts to edit, summarize, and catalog the lect
 For those who work at technology firms and do not work with code directly, these notes can also provide awareness and insight into how these applications are made from a high-level perspective.
 
 [For more information...](SAD/Foreword_SAD.pdf)
+
+[Sample Chapter - Review of UML!](SAD/SAD%20-%20P2L1%20-%20Review%20of%20UML.pdf)
 
 - [Amazon Kindle](https://www.amazon.com/dp/B0HDGY48S2)
 - [Apple Books](https://books.apple.com/us/book/software-architecture-design/id6799493659)
